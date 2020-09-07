@@ -1,2 +1,7 @@
 this is test
+<<<<<<< HEAD
 this is rasheeque
+=======
+
+
+>>>>>>> feature
